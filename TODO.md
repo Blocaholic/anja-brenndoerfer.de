@@ -4,15 +4,12 @@
 
 - Impressum
 - Datenschutzerklärung
+- Schriftart Gloria Hallelujah für "Anja Brenndörfer - Textile Kreationen mit biblischem Hintergrund"
 
 ## Prio B
+
+- Datenschutz für Mail-Signatur
 
 ## Issues
 
 ## Klären mit Owner
-
-- Schriftart 'Kristen' Web-Lizenz Microsoft 32,- €
-- Google Fonts Alternativen:
-  - Caveat
-  - Gloria Hallelujah
-- Datenschutz für Mail-Signatur
