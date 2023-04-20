@@ -13,7 +13,7 @@
 	<body>
 		<a name="top"><br style="display:none; position:absolute; left:0px; top:0px;"></a>
 		<div id="design">
-			<img id="logo" src="images/logo.png" alt="Anja-Brenndörfer.de - Logo" title="">
+			<img id="logo" src="images/AB.svg" alt="Anja-Brenndörfer.de - Logo" title="">
 			<img id="banner" src="images/banner.png" alt="Anja-Brenndörfer.de - Banner" title="">
 		</div>
 		<div id="navi">
