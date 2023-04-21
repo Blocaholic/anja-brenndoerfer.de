@@ -42,5 +42,5 @@
 <a class="navi" href="index.php?page=stickarchiv" title="Stickarchiv">Stickarchiv</a>
 <br>
 <a class="navi" href="index.php?page=impressum" title="Impressum">Impressum</a>
-<a class="navi" href="index.php?page=disclaimer" title="Haftungsausschluss">Haftungsausschluss</a>
+<a class="navi" href="index.php?page=datenschutz" title="Datenschutzerklärung">Datenschutzerklärung</a>
 <br><br>
