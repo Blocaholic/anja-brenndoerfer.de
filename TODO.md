@@ -2,14 +2,14 @@
 
 ## Prio A
 
-- Impressum
-- Datenschutzerklärung
-- Schriftart Gloria Hallelujah für "Anja Brenndörfer - Textile Kreationen mit biblischem Hintergrund"
-
 ## Prio B
-
-- Datenschutz für Mail-Signatur
 
 ## Issues
 
 ## Klären mit Owner
+
+## Corporate Colors
+
+- Pink: #E60DFF
+- Blau: #0004FF
+- Türkis: #07E6FF
