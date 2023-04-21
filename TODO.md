@@ -18,4 +18,10 @@
 - #0524A8
 - #05AFB3
 
+### Bisherige Farben
+
+- Text blau: #000080
+- Logo AB: #048284
+- Hintergrund: #CCFFFF
+
 - Schriftart: Gloria Hallelujah
