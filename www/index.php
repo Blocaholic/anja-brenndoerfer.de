@@ -7,8 +7,7 @@ if (isset($_GET['page'])) {$get_page = $_GET['page'];} else { $get_page = 'home'
 if (!file_exists("content/" . $get_page . ".htm")) {$get_page = 'notfound';}
 # Templates einlesen
 $html_content = file_get_contents($html_tpl);
-$navi_content = file_get_contents($navi_tpl[$get_page]);
-$ad_content = file_get_contents($ad_tpl[$get_page]);
+$navi_content = file_get_contents('navi.htm');
 $content = "content/" . $get_page . ".htm";
 $content_content = file_get_contents($content);
 # Seite zusammensetzen / Platzhalter ersetzen
