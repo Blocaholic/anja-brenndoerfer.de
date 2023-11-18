@@ -189,6 +189,11 @@ h2 {
   margin-bottom: 0px;
   padding-bottom: 0px;
 }
+h2::before {
+  clear: both;
+  content: '';
+  display: table;
+}
 img.ad {
   border: transparent none 0px;
   padding: 0px;
@@ -215,17 +220,15 @@ img.s400x300 {
   margin-top: 25px;
   padding: 0px;
 }
-p.textnfoto-400 {
+p.textnfoto {
   font-weight: normal;
-  min-height: 415px;
   text-align: justify;
   margin-top: 25px;
   margin-bottom: 10px;
   padding-top: 15px;
 }
-div.textnfoto-400 {
+div.textnfoto {
   font-weight: normal;
-  min-height: 415px;
   text-align: justify;
   margin-top: 15px;
   margin-bottom: 10px;
@@ -240,22 +243,6 @@ img.s300x300 {
   margin-bottom: 10px;
   margin-top: 25px;
   padding: 0px;
-}
-p.textnfoto-300 {
-  font-weight: normal;
-  min-height: 315px;
-  text-align: justify;
-  margin-top: 25px;
-  margin-bottom: 10px;
-  padding-top: 15px;
-}
-div.textnfoto-300 {
-  font-weight: normal;
-  min-height: 315px;
-  text-align: justify;
-  margin-top: 15px;
-  margin-bottom: 10px;
-  padding-top: 5px;
 }
 div.minileft {
   background-color: rgb(255, 255, 255);
