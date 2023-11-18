@@ -17,7 +17,7 @@ body {
 #banner {
   position: absolute;
   left: 464px;
-  top: 10px;
+  top: 30px;
   width: 386px;
   height: 135px;
   z-index: 18;
@@ -33,7 +33,7 @@ body {
 #content {
   position: absolute;
   left: 180px;
-  top: 150px;
+  top: 220px;
   width: 780px;
   min-height: 100px;
   z-index: 8;
@@ -60,7 +60,7 @@ body {
 #headimg {
   position: absolute;
   left: 20px;
-  top: -150px;
+  top: -210px;
   width: 152px;
   height: 150px;
   z-index: 9;
@@ -155,6 +155,9 @@ a.top {
   text-align: right;
   margin-top: 20px;
   margin-bottom: 25px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 img {
   border: none;
@@ -175,8 +178,8 @@ h1 {
   border-left: rgb(0, 0, 132) solid 35px;
   border-bottom: rgb(0, 0, 132) solid 5px;
   padding-left: 12px;
-  margin-top: 30px;
-  margin-bottom: 0px;
+  margin-top: 0;
+  margin-bottom: 1.6em;
   padding-bottom: 0px;
 }
 h2 {
@@ -185,13 +188,13 @@ h2 {
   font-size: 130%;
   line-height: 1.1em;
   border-bottom: rgb(0, 0, 132) solid 2px;
-  margin-top: 40px;
-  margin-bottom: 0px;
+  margin-top: 0;
+  margin-bottom: 1.6em;
   padding-bottom: 0px;
 }
-h2::before {
+article {
   clear: both;
-  content: '';
+  margin-bottom: 3.2em;
   display: table;
 }
 img.ad {
