@@ -207,20 +207,20 @@ img.s300x400 {
   width: 300px;
   height: 400px;
   float: right;
-  margin-left: 30px;
-  margin-right: 0px;
-  margin-bottom: 10px;
-  margin-top: 25px;
+  margin-left: 2em;
+  margin-right: 0;
+  margin-bottom: 2em;
+  margin-top: 0.5em;
   padding: 0px;
 }
 img.s400x300 {
   width: 400px;
   height: 300px;
   float: right;
-  margin-left: 30px;
-  margin-right: 0px;
-  margin-bottom: 10px;
-  margin-top: 25px;
+  margin-left: 2em;
+  margin-right: 0;
+  margin-bottom: 2em;
+  margin-top: 0.5em;
   padding: 0px;
 }
 p.textnfoto {
