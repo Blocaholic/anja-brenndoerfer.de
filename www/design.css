@@ -192,9 +192,10 @@ h2 {
   margin-bottom: 1.6em;
   padding-bottom: 0px;
 }
-article {
+article,
+section {
   clear: both;
-  margin-bottom: 3.2em;
+  margin-bottom: 5.2em;
   display: table;
 }
 img.ad {
@@ -247,30 +248,27 @@ img.s300x300 {
   margin-top: 25px;
   padding: 0px;
 }
-div.minileft {
+.flexCards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  column-gap: 2em;
+  row-gap: 3em;
+}
+.flexCards a {
+  text-decoration: none;
+}
+.card {
+  display: table;
   background-color: rgb(255, 255, 255);
   border: rgb(0, 0, 132) solid 2px;
   border-radius: 5px;
   text-align: center;
   width: 300px;
   height: auto;
-  float: left;
   padding: 0;
-  margin: 25px 21px 25px 0px;
 }
-div.miniright {
-  background-color: rgb(255, 255, 255);
-  border: rgb(0, 0, 132) solid 2px;
-  border-radius: 5px;
-  text-align: center;
-  width: 300px;
-  height: auto;
-  float: left;
-  padding: 0;
-  margin: 25px 0px 25px 21px;
-}
-div.minileft p,
-div.miniright p {
+.card p {
   font-weight: bold;
   font-style: normal;
   font-size: 130%;
@@ -289,11 +287,6 @@ img.mini {
   border-top: rgb(0, 0, 0) solid 1px;
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
-}
-#impressum {
-  width: 500px;
-  height: 300px;
-  margin-top: 20px;
 }
 h1.ad {
   font-size: 20px;
