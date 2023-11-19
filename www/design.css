@@ -254,6 +254,7 @@ img.s300x300 {
   justify-content: space-evenly;
   column-gap: 2em;
   row-gap: 3em;
+  margin-bottom: 5.2em;
 }
 .flexCards a {
   text-decoration: none;
