@@ -248,6 +248,14 @@ img.s300x300 {
   margin-top: 25px;
   padding: 0px;
 }
+.clearfix {
+  clear: both;
+}
+.block {
+  display: block;
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
 .flexCards {
   display: flex;
   flex-wrap: wrap;
@@ -332,8 +340,11 @@ p.datum {
   text-align: right;
   font-style: italic;
   font-size: 16px;
-  margin: 0px;
-  padding: 0px;
+  margin: -1.6em 0 1.6em 0;
+  padding: 0;
+}
+ol ol {
+  list-style-type: lower-latin;
 }
 li {
   margin-bottom: 15px;
