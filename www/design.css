@@ -344,8 +344,14 @@ p.datum {
   text-align: right;
   font-style: italic;
   font-size: 16px;
-  margin: -1.6em 0 1.6em 0;
+  margin: 0 0 1.6em 0;
   padding: 0;
+}
+h1 + p.datum {
+  margin-top: -3em;
+}
+h2 + p.datum {
+  margin-top: -1.6em;
 }
 ol ol {
   list-style-type: lower-latin;
