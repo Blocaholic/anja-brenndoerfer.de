@@ -208,9 +208,8 @@ img.ad {
   margin: 0px;
   width: 120px;
 }
-img.s300x400 {
+.s300x400 {
   width: 300px;
-  height: 400px;
   float: right;
   margin-left: 2em;
   margin-right: 0;
@@ -218,9 +217,8 @@ img.s300x400 {
   margin-top: 0.5em;
   padding: 0px;
 }
-img.s400x300 {
+.s400x300 {
   width: 400px;
-  height: 300px;
   float: right;
   margin-left: 2em;
   margin-right: 0;
