@@ -20,6 +20,7 @@
 - Rückseite von Fischkissen = Kissen mit Blumen/Gräsern?
 - Hutschachtel zu "Der Grund" (Christliche Quilts) oder Sonstige Quilts
 - "Brautpaar 2014" zu "Portraits" oder zu "Hochzeitsquilt 2014" oder beides?
+- Reihenfolge der Arbeiten innerhalb der Kategorien?
 
 ## Corporate Design
 
