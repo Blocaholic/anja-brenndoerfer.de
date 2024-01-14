@@ -67,7 +67,7 @@
 
 ## Handtücher
 
-## Mutters Quilts
+[x] Mutters Quilts
 
 ## Sonstige Stickerei
 

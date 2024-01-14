@@ -201,6 +201,7 @@ section {
   clear: both;
   margin-bottom: 3.2em;
   display: table;
+  width: 100%;
 }
 img.ad {
   border: transparent none 0px;
@@ -240,9 +241,8 @@ div.textnfoto {
   margin-bottom: 10px;
   padding-top: 5px;
 }
-img.s300x300 {
+.s300x300 {
   width: 300px;
-  height: 300px;
   float: right;
   margin-left: 30px;
   margin-right: 0px;
