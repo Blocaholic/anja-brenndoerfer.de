@@ -76,7 +76,7 @@
 - [x] Tasche zum 60. Geburtstag
 - [x] Beutel für das Abendmahlsgeschirr
 - [x] Buchhülle
-- [] Matrogel (von Challenges)
+- [x] Matrogel
 - []
 - []
 - []
