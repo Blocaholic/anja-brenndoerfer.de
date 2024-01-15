@@ -30,7 +30,7 @@
 - [] Hochzeitsquilt 2005 mhs
 - [] Hochzeitsquilt 2008
 - [] Hochzeitsquilt 2014
-- [] Mysteryquilt (von Challenges)
+- [x] Mysteryquilt
 - [] Odas Quilt
 - [] Petras Quilt
 - [] pHANDasie (von Challenges)
