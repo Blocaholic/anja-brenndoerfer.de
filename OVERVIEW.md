@@ -23,8 +23,8 @@
 - [x] Kameleonquilt
 - [x] Hutschachtel
 - [x] Alte Traktor Liebe
-- [x] Anjas Nolde (von Challenges)
-- [] Bei Oma im Garten (von Challenges)
+- [x] Anjas Nolde
+- [x] Bei Oma im Garten
 - [] Bikinikatzen
 - [] Häuser bei Nacht
 - [] Hochzeitsquilt 2005 mhs
