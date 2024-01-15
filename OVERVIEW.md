@@ -67,13 +67,15 @@
 
 ## Handtücher
 
-[x] Mutters Quilts
+- [x] Handtücher mit maschinengestickten Noten für einen Chorleiter
+
+## [x] Mutters Quilts
 
 ## Sonstige Stickerei
 
-- []
-- []
-- []
+- [x] Tasche zum 60. Geburtstag
+- [x] Beutel für das Abendmahlsgeschirr
+- [x] Buchhülle
 - []
 - []
 - []
