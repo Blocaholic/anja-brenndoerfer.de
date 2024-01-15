@@ -33,7 +33,7 @@
 - [x] Mysteryquilt
 - [] Odas Quilt
 - [] Petras Quilt
-- [] pHANDasie (von Challenges)
+- [x] pHANDasie
 - [] Regenbogenverschnitt
 - [] Reste vom Spiralquilt
 - [] Rosenquilt
