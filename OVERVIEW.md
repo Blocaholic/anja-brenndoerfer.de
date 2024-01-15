@@ -49,7 +49,7 @@
 - [] Buchhülle BG
 - [] FR 2011
 - [] Lubus
-- [] Mission
+- [x] Mission
 - [] SH Kissen 2012
 - [] SH Kissen 2013
 - [] SH Portrait 2011
@@ -57,7 +57,7 @@
 - [] Stickportrait Anja 2010
 - [] Stickportrait Kissen 2010
 - [] Ulla 2014
-- [] Vater 2011
+- [x] Vater 2011
 
 ## Kissen
 
