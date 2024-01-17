@@ -259,15 +259,20 @@ div.textnfoto {
   margin-bottom: 0.3em;
 }
 .flexCards {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
-  column-gap: 2em;
-  row-gap: 3em;
+  display: block;
+  column-count: 2;
+  padding: 0 2.4em;
   margin-bottom: 5.2em;
 }
 .flexCards a {
+  display: inline-block;
   text-decoration: none;
+  margin-bottom: 3.2em;
+}
+.flexCards:has(> :last-child:nth-child(2)) {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0;
 }
 .card {
   display: table;
