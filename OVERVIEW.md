@@ -46,17 +46,17 @@
 
 ## Portraits
 
-- [] Buchhülle BG
-- [] FR 2011
+- [x] Buchhülle BG
+- [x] FR 2011
 - [] Lubus
 - [x] Mission
-- [] SH Kissen 2012
-- [] SH Kissen 2013
-- [] SH Portrait 2011
-- [] Stickportrait 2 2010
-- [] Stickportrait Anja 2010
-- [] Stickportrait Kissen 2010
-- [] Ulla 2014
+- [x] SH Kissen 2012
+- [x] SH Kissen 2013
+- [x] SH Portrait 2011
+- [x] Stickportrait 2 2010
+- [x] Stickportrait Anja 2010
+- [x] Stickportrait Kissen 2010
+- [x] Ulla 2014
 - [x] Vater 2011
 
 ## Kissen
