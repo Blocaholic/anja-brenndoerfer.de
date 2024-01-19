@@ -27,16 +27,16 @@
 - [x] Bei Oma im Garten
 - [] Bikinikatzen
 - [] Häuser bei Nacht
-- [] Hochzeitsquilt 2005 mhs
-- [] Hochzeitsquilt 2008
-- [] Hochzeitsquilt 2014
+- [x] Hochzeitsquilt 2005 mhs
+- [x] Hochzeitsquilt 2008
+- [x] Hochzeitsquilt 2014
 - [x] Mysteryquilt
 - [] Odas Quilt
 - [] Petras Quilt
 - [x] pHANDasie
 - [] Regenbogenverschnitt
 - [] Reste vom Spiralquilt
-- [] Rosenquilt
+- [x] Rosenquilt
 - [] Silberhochzeitsquilt 2007
 - [] Treeskirt
 - [] Vitaminlasagne
