@@ -22,6 +22,10 @@
 - "Brautpaar 2014" zu "Portraits" oder zu "Hochzeitsquilt 2014" oder beides?
 - Reihenfolge der Arbeiten innerhalb der Kategorien?
 
+- 013 Hochzeitsquilt 2014
+- 014 Hochzeitsquilt mhs 2005
+- 015 QR-Code-Handtuch Anne
+
 ## Corporate Design
 
 - Pink: #E60DFF
