@@ -25,19 +25,19 @@
 - [x] Alte Traktor Liebe
 - [x] Anjas Nolde
 - [x] Bei Oma im Garten
-- [] Bikinikatzen
-- [] Häuser bei Nacht
+- [x] Bikinikatzen
+- [x] Häuser bei Nacht
 - [x] Hochzeitsquilt 2005 mhs
 - [x] Hochzeitsquilt 2008
 - [x] Hochzeitsquilt 2014
 - [x] Mysteryquilt
-- [] Odas Quilt
-- [] Petras Quilt
+- [x] Odas Quilt
+- [x] Petras Quilt
 - [x] pHANDasie
-- [] Regenbogenverschnitt
+- [x] Regenbogenverschnitt
 - [] Reste vom Spiralquilt
 - [x] Rosenquilt
-- [] Silberhochzeitsquilt 2007
+- [x] Silberhochzeitsquilt 2007
 - [] Treeskirt
 - [] Vitaminlasagne
 - [] ??? Carola Baaske ???
