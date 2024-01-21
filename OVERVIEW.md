@@ -39,7 +39,7 @@
 - [x] Rosenquilt
 - [x] Silberhochzeitsquilt 2007
 - [] Treeskirt
-- [] Vitaminlasagne
+- [x] Vitaminlasagne
 - [] ??? Carola Baaske ???
 - [] Antons Quilt
 - [] ??? Background Startseite ???
