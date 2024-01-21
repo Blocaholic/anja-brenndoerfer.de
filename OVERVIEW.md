@@ -63,6 +63,8 @@
 
 ## Kleidung
 
+- [x] Traktorhemd
+
 ## Für Kinder
 
 ## Handtücher
