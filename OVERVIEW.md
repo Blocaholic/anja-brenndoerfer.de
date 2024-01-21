@@ -38,7 +38,7 @@
 - [x] Reste vom Spiralquilt
 - [x] Rosenquilt
 - [x] Silberhochzeitsquilt 2007
-- [] Treeskirt
+- [x] Treeskirt
 - [x] Vitaminlasagne
 - [] ??? Carola Baaske ???
 - [] Antons Quilt
