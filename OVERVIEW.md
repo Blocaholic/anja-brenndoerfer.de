@@ -35,7 +35,7 @@
 - [x] Petras Quilt
 - [x] pHANDasie
 - [x] Regenbogenverschnitt
-- [] Reste vom Spiralquilt
+- [x] Reste vom Spiralquilt
 - [x] Rosenquilt
 - [x] Silberhochzeitsquilt 2007
 - [] Treeskirt
